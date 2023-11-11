@@ -4,9 +4,7 @@ aleo smart contract
 نصب پیش نیازها 
 -----------------------------------------------------------------
 
-rustup update stable
-
-rustup default stable
+rustup update stabl
 
 apt install clang gcc libssl-dev pkg-config
 
