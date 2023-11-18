@@ -5,11 +5,7 @@ aleo smart contract
 -------------------------------------------------
 cargo install --path .
 
-git clone https://github.com/AleoHQ/snarkOS.git --depth 1
-cd snarkOS
-
-./build_ubuntu.sh
-
+git clone https://github.com/AleoHQ/snark
 cargo install --path .
 
 
