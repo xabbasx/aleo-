@@ -6,9 +6,7 @@ aleo smart contract
 cargo install --path .
 
 git clone https://github.com/AleoHQ/snark
-cargo install --path .
-
-
+cargo install --path
 توییت برای فاست
 ------------------------------------------------------------------
 
