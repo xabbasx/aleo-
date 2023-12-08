@@ -5,7 +5,7 @@ aleo smart contract
 ---------------------------------------------
 
 git clone https://github.com/AleoHQ/snark
-cargo install --path
+cargo install --pat
 توییت برای فاست
 ----------------------------------------------------------------
 @AleoFaucet send 10 credits to aleo1y9s2yr50paljp0rd8wtqzy6ue9cshyyukwfslx2vhpj588vnguzqnndumr
