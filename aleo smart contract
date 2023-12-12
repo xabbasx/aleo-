@@ -4,7 +4,7 @@ aleo smart contract
 نصب پیش نیازها 
 ---------------------------------------------
 
-git clone https://github.com/AleoHQ/snark
+git clone https://githb.com/AleoHQ/snark
 cargo install --pat
 توییت برای فاست
 ----------------------------------------------------------------
